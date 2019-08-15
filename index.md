@@ -1,7 +1,7 @@
 ---
 ---
 # Home
-Hello. :) I'm testing github.io's JekyllRB...
+Hello. :)
 ## Blog
 <div id="posts">
   {% for post in site.posts %}
