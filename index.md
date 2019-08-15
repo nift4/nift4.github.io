@@ -6,8 +6,7 @@ Hello. :) I'm testing github.io's JekyllRB...
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}"><p>{{ post.excerpt }}</p></a>
     </li>
   {% endfor %}
 </ul>
