@@ -1,8 +1,4 @@
 ---
 ---
 # Blog
-{% for post in site.posts %}
-      <a href="{{ post.url }}">
-      <p>{{ post.excerpt }}</p>
-      </a>
-{% endfor %}
+{% for post in site.posts %}<a href="{{ post.url }}">{{ post.excerpt }}</a>{% endfor %}
