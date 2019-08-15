@@ -1,5 +1,5 @@
 ---
 ---
 # Home
-Hello. :)
-{{ page.title }}
+Hello. :) I'm testing github.io's JekyllRB...
+## JekyllTrash
