@@ -1,5 +1,4 @@
 ---
-title: <a href="https://nift4.org">nift4</a>
 ---
 # Home
 Hello. :)
