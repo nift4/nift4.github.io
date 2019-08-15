@@ -1,2 +1,5 @@
+---
+---
 # Home
 Hello. :)
+{{ page.title }}
