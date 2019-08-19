@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nift4
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nift4.github.io
+  * I am nift4 (https://keybase.io/nift4) on keybase.
+  * I have a public key ASDaCGuGxp0m6HtpkdWD5qjzqqRlsf_JkIn9DraqpQ1V4Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120da086b86c69d26e87b6991d583e6a8f3aaa465b1ffc99089fd0eb6aaa50d55e10a",
+      "host": "keybase.io",
+      "kid": "0120da086b86c69d26e87b6991d583e6a8f3aaa465b1ffc99089fd0eb6aaa50d55e10a",
+      "uid": "33da3351eb99f825ae1a600745e86919",
+      "username": "nift4"
+    },
+    "merkle_root": {
+      "ctime": 1566236713,
+      "hash": "03f244f04f96b070205c0ada465b49ff9d687b461ce57c094b4cf6db06fade9c9ac1335c9cffb58e5833bf0b7c300d4ad436ad45e77a6b4418cfae28328790f8",
+      "hash_meta": "68b4d81ee15a57d2babf60a583b5165f9e0a47b7f3bd7d1b92668eb526e329be",
+      "seqno": 6049998
+    },
+    "service": {
+      "entropy": "8vdjIGNs5XROU3Wr34FPHmK9",
+      "hostname": "nift4.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.1"
+  },
+  "ctime": 1566236749,
+  "expire_in": 504576000,
+  "prev": "a9eeb515eeca8ba7bcd772d89d6cc3717e28f023076b3a0de70370ec747cad55",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2ghrhsadJuh7aZHVg+ao86qkZbH/yZCJ/Q62qqUNVeEKp3BheWxvYWTESpcCEcQgqe61Fe7Ki6e813LYnWzDcX4o8CMHazoN5wNw7HR8rVXEICnumIuOMLNv1qZrzjKZ8XH6utCdZVD6XEWvVIFgokQOAgHCo3NpZ8RAcrqpAYY7g5wYUgNTO1sr/QZks6eIMCQ5Yyy5L9ZeUpdhX4anvyVI8ynPi4h7gpuuB8aOQZLnAytorigKIqUOCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFNwIGCJaUQvdmEjiD8BeWE2C4k8dK/FXw2hBxLuvfH5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nift4
+
+==================================================================
