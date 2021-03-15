@@ -54,3 +54,60 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/nift4
 
 ==================================================================
+
+==================================================================
+https://keybase.io/nift4
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nift4.tk
+  * I am nift4 (https://keybase.io/nift4) on keybase.
+  * I have a public key ASDyNQTKSqNtfgpcUIFDOOH4HSbF2kyuqIBjgfq2MU9h4Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120da086b86c69d26e87b6991d583e6a8f3aaa465b1ffc99089fd0eb6aaa50d55e10a",
+      "host": "keybase.io",
+      "kid": "0120f23504ca4aa36d7e0a5c50814338e1f81d26c5da4caea8806381fab6314f61e10a",
+      "uid": "33da3351eb99f825ae1a600745e86919",
+      "username": "nift4"
+    },
+    "merkle_root": {
+      "ctime": 1615793802,
+      "hash": "ce1bd7c94e277ac77d162c1c02a57c49c523f3663351b110dead67c0a5f7a26efea98b07ef8404acf96c8f4b958487ad49a6edaa8a0598c21b2b10c48ee88a70",
+      "hash_meta": "24ef0f3a489cb8edd5dc4a61a2ef49c6ee0cf14c4409748ffd674adaa99c3886",
+      "seqno": 19375502
+    },
+    "service": {
+      "entropy": "yTfKTep8PRve90AhMYfSQdZt",
+      "hostname": "nift4.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1615793827,
+  "expire_in": 504576000,
+  "prev": "4fba92e3dce3c283a310d93081d8b4c83820d95eb4df351d97e0c43e02ca215b",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8jUEykqjbX4KXFCBQzjh+B0mxdpMrqiAY4H6tjFPYeEKp3BheWxvYWTESpcCLsQgT7qS49zjwoOjENkwgdi0yDgg2V603zUdl+DEPgLKIVvEIKvqYlS7myRGEt+gPgfF/3X3R7tlApZkEeNsGnzlL51ZAgHCo3NpZ8RAZzvotiCVGozG5E3iRzP2y64OlvrXzSQjhJDY8s6Tc+N18j5oY+9TIOt/auXO57SWWlL5zpqzNTZ6SjoyY499B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOqkvEnYz9I1Jy+407CO6EmnrkGkptVtCbuziJFG/nwko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nift4
+
+==================================================================
