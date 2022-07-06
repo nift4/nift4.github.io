@@ -1,9 +1,6 @@
 - name: Home
   link: /
 
-- name: Blog
-  link: /blog
-
 - name: GitHub profile
   link: https://git.io/nift4_profile
 
