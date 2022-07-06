@@ -2,7 +2,6 @@
 ---
 # Home
 Hello. :)
-## About
-I'm nift4 and this website exists because I wanted a blog and a hosting solution for some other things.
-## Blog
-[Click here to get to all posts...](/blog)
+## Important notice
+I mostly migrated to [my new website](https://nift4.org). This is only alive to avoid any dead links in the future.
+If nift4.org goes down, I will probably revive or atleast update this page.
